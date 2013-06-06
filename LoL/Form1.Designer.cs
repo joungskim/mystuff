@@ -96,7 +96,7 @@
             this.tbChampionName.BackColor = System.Drawing.SystemColors.InfoText;
             this.tbChampionName.ForeColor = System.Drawing.Color.Lime;
             this.tbChampionName.Location = new System.Drawing.Point(68, 54);
-            this.tbChampionName.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbChampionName.Margin = new System.Windows.Forms.Padding(2);
             this.tbChampionName.Name = "tbChampionName";
             this.tbChampionName.Size = new System.Drawing.Size(162, 20);
             this.tbChampionName.TabIndex = 0;
@@ -116,7 +116,7 @@
             // buttonCounters
             // 
             this.buttonCounters.Location = new System.Drawing.Point(541, 54);
-            this.buttonCounters.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonCounters.Margin = new System.Windows.Forms.Padding(2);
             this.buttonCounters.Name = "buttonCounters";
             this.buttonCounters.Size = new System.Drawing.Size(106, 19);
             this.buttonCounters.TabIndex = 2;
@@ -127,7 +127,7 @@
             // buttonBuilds
             // 
             this.buttonBuilds.Location = new System.Drawing.Point(651, 54);
-            this.buttonBuilds.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonBuilds.Margin = new System.Windows.Forms.Padding(2);
             this.buttonBuilds.Name = "buttonBuilds";
             this.buttonBuilds.Size = new System.Drawing.Size(106, 19);
             this.buttonBuilds.TabIndex = 3;
@@ -140,7 +140,7 @@
             this.tbCurrentChamp.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.tbCurrentChamp.ForeColor = System.Drawing.Color.Lime;
             this.tbCurrentChamp.Location = new System.Drawing.Point(360, 54);
-            this.tbCurrentChamp.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbCurrentChamp.Margin = new System.Windows.Forms.Padding(2);
             this.tbCurrentChamp.Name = "tbCurrentChamp";
             this.tbCurrentChamp.ReadOnly = true;
             this.tbCurrentChamp.Size = new System.Drawing.Size(177, 20);
@@ -200,7 +200,7 @@
             this.tbHealth.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.tbHealth.ForeColor = System.Drawing.Color.Lime;
             this.tbHealth.Location = new System.Drawing.Point(300, 98);
-            this.tbHealth.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbHealth.Margin = new System.Windows.Forms.Padding(2);
             this.tbHealth.Name = "tbHealth";
             this.tbHealth.ReadOnly = true;
             this.tbHealth.Size = new System.Drawing.Size(38, 20);
@@ -212,7 +212,7 @@
             this.tbType.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.tbType.ForeColor = System.Drawing.Color.Lime;
             this.tbType.Location = new System.Drawing.Point(300, 75);
-            this.tbType.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbType.Margin = new System.Windows.Forms.Padding(2);
             this.tbType.Name = "tbType";
             this.tbType.ReadOnly = true;
             this.tbType.Size = new System.Drawing.Size(38, 20);
@@ -224,7 +224,7 @@
             this.tbAD.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.tbAD.ForeColor = System.Drawing.Color.Lime;
             this.tbAD.Location = new System.Drawing.Point(300, 120);
-            this.tbAD.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbAD.Margin = new System.Windows.Forms.Padding(2);
             this.tbAD.Name = "tbAD";
             this.tbAD.ReadOnly = true;
             this.tbAD.Size = new System.Drawing.Size(38, 20);
@@ -284,7 +284,7 @@
             this.tbAP.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.tbAP.ForeColor = System.Drawing.Color.Lime;
             this.tbAP.Location = new System.Drawing.Point(300, 143);
-            this.tbAP.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbAP.Margin = new System.Windows.Forms.Padding(2);
             this.tbAP.Name = "tbAP";
             this.tbAP.ReadOnly = true;
             this.tbAP.Size = new System.Drawing.Size(38, 20);
@@ -296,7 +296,7 @@
             this.tbDifficulty.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.tbDifficulty.ForeColor = System.Drawing.Color.Lime;
             this.tbDifficulty.Location = new System.Drawing.Point(300, 166);
-            this.tbDifficulty.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbDifficulty.Margin = new System.Windows.Forms.Padding(2);
             this.tbDifficulty.Name = "tbDifficulty";
             this.tbDifficulty.ReadOnly = true;
             this.tbDifficulty.Size = new System.Drawing.Size(38, 20);
@@ -308,7 +308,7 @@
             this.tbIPCost.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.tbIPCost.ForeColor = System.Drawing.Color.Lime;
             this.tbIPCost.Location = new System.Drawing.Point(300, 188);
-            this.tbIPCost.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbIPCost.Margin = new System.Windows.Forms.Padding(2);
             this.tbIPCost.Name = "tbIPCost";
             this.tbIPCost.ReadOnly = true;
             this.tbIPCost.Size = new System.Drawing.Size(38, 20);
@@ -320,7 +320,7 @@
             this.tbRPCost.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.tbRPCost.ForeColor = System.Drawing.Color.Lime;
             this.tbRPCost.Location = new System.Drawing.Point(300, 211);
-            this.tbRPCost.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbRPCost.Margin = new System.Windows.Forms.Padding(2);
             this.tbRPCost.Name = "tbRPCost";
             this.tbRPCost.ReadOnly = true;
             this.tbRPCost.Size = new System.Drawing.Size(38, 20);
@@ -331,7 +331,7 @@
             // 
             this.pbChampImage.BackColor = System.Drawing.Color.Transparent;
             this.pbChampImage.Location = new System.Drawing.Point(242, 536);
-            this.pbChampImage.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pbChampImage.Margin = new System.Windows.Forms.Padding(2);
             this.pbChampImage.Name = "pbChampImage";
             this.pbChampImage.Size = new System.Drawing.Size(100, 102);
             this.pbChampImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -341,7 +341,7 @@
             // buttonSkills
             // 
             this.buttonSkills.Location = new System.Drawing.Point(761, 54);
-            this.buttonSkills.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonSkills.Margin = new System.Windows.Forms.Padding(2);
             this.buttonSkills.Name = "buttonSkills";
             this.buttonSkills.Size = new System.Drawing.Size(106, 19);
             this.buttonSkills.TabIndex = 25;
@@ -364,7 +364,7 @@
             // tbReleaseDate
             // 
             this.tbReleaseDate.Location = new System.Drawing.Point(242, 658);
-            this.tbReleaseDate.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbReleaseDate.Margin = new System.Windows.Forms.Padding(2);
             this.tbReleaseDate.Name = "tbReleaseDate";
             this.tbReleaseDate.ReadOnly = true;
             this.tbReleaseDate.Size = new System.Drawing.Size(102, 20);
@@ -378,7 +378,7 @@
             this.lbSelectChamp.ForeColor = System.Drawing.Color.Lime;
             this.lbSelectChamp.FormattingEnabled = true;
             this.lbSelectChamp.Location = new System.Drawing.Point(9, 77);
-            this.lbSelectChamp.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.lbSelectChamp.Margin = new System.Windows.Forms.Padding(2);
             this.lbSelectChamp.Name = "lbSelectChamp";
             this.lbSelectChamp.Size = new System.Drawing.Size(220, 600);
             this.lbSelectChamp.TabIndex = 28;
@@ -400,7 +400,7 @@
             // wbInformation
             // 
             this.wbInformation.Location = new System.Drawing.Point(360, 77);
-            this.wbInformation.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.wbInformation.Margin = new System.Windows.Forms.Padding(2);
             this.wbInformation.MinimumSize = new System.Drawing.Size(15, 16);
             this.wbInformation.Name = "wbInformation";
             this.wbInformation.ScriptErrorsSuppressed = true;
@@ -410,7 +410,7 @@
             // buttonOffline
             // 
             this.buttonOffline.Location = new System.Drawing.Point(958, 54);
-            this.buttonOffline.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonOffline.Margin = new System.Windows.Forms.Padding(2);
             this.buttonOffline.Name = "buttonOffline";
             this.buttonOffline.Size = new System.Drawing.Size(56, 19);
             this.buttonOffline.TabIndex = 32;
@@ -420,7 +420,7 @@
             // buttonOnline
             // 
             this.buttonOnline.Location = new System.Drawing.Point(1018, 54);
-            this.buttonOnline.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonOnline.Margin = new System.Windows.Forms.Padding(2);
             this.buttonOnline.Name = "buttonOnline";
             this.buttonOnline.Size = new System.Drawing.Size(56, 19);
             this.buttonOnline.TabIndex = 33;
@@ -430,7 +430,7 @@
             // buttonClear
             // 
             this.buttonClear.Location = new System.Drawing.Point(897, 54);
-            this.buttonClear.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonClear.Margin = new System.Windows.Forms.Padding(2);
             this.buttonClear.Name = "buttonClear";
             this.buttonClear.Size = new System.Drawing.Size(56, 19);
             this.buttonClear.TabIndex = 34;
@@ -459,7 +459,7 @@
             // 
             this.pbCover.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.pbCover.Location = new System.Drawing.Point(360, 77);
-            this.pbCover.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pbCover.Margin = new System.Windows.Forms.Padding(2);
             this.pbCover.Name = "pbCover";
             this.pbCover.Size = new System.Drawing.Size(712, 519);
             this.pbCover.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -473,7 +473,7 @@
             this.panel1.Controls.Add(this.pbExitButton);
             this.panel1.Controls.Add(this.pbMinimize);
             this.panel1.Location = new System.Drawing.Point(-2, -2);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1095, 30);
             this.panel1.TabIndex = 39;
@@ -495,7 +495,7 @@
             // 
             this.pbExitButton.Image = ((System.Drawing.Image)(resources.GetObject("pbExitButton.Image")));
             this.pbExitButton.Location = new System.Drawing.Point(1046, 2);
-            this.pbExitButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pbExitButton.Margin = new System.Windows.Forms.Padding(2);
             this.pbExitButton.Name = "pbExitButton";
             this.pbExitButton.Size = new System.Drawing.Size(31, 28);
             this.pbExitButton.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -509,7 +509,7 @@
             // 
             this.pbMinimize.Image = ((System.Drawing.Image)(resources.GetObject("pbMinimize.Image")));
             this.pbMinimize.Location = new System.Drawing.Point(1010, 2);
-            this.pbMinimize.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pbMinimize.Margin = new System.Windows.Forms.Padding(2);
             this.pbMinimize.Name = "pbMinimize";
             this.pbMinimize.Size = new System.Drawing.Size(31, 28);
             this.pbMinimize.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -571,7 +571,7 @@
             // 
             this.tbRedTimer.BackColor = System.Drawing.Color.Black;
             this.tbRedTimer.Location = new System.Drawing.Point(287, 326);
-            this.tbRedTimer.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbRedTimer.Margin = new System.Windows.Forms.Padding(2);
             this.tbRedTimer.Name = "tbRedTimer";
             this.tbRedTimer.ReadOnly = true;
             this.tbRedTimer.Size = new System.Drawing.Size(51, 20);
@@ -601,7 +601,7 @@
             // 
             this.tbBlueTimer.BackColor = System.Drawing.Color.Black;
             this.tbBlueTimer.Location = new System.Drawing.Point(287, 349);
-            this.tbBlueTimer.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbBlueTimer.Margin = new System.Windows.Forms.Padding(2);
             this.tbBlueTimer.Name = "tbBlueTimer";
             this.tbBlueTimer.ReadOnly = true;
             this.tbBlueTimer.Size = new System.Drawing.Size(51, 20);
@@ -611,7 +611,7 @@
             // 
             this.tbDragonTimer.BackColor = System.Drawing.Color.Black;
             this.tbDragonTimer.Location = new System.Drawing.Point(287, 371);
-            this.tbDragonTimer.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbDragonTimer.Margin = new System.Windows.Forms.Padding(2);
             this.tbDragonTimer.Name = "tbDragonTimer";
             this.tbDragonTimer.ReadOnly = true;
             this.tbDragonTimer.Size = new System.Drawing.Size(51, 20);
@@ -621,7 +621,7 @@
             // 
             this.tbBaronTimer.BackColor = System.Drawing.Color.Black;
             this.tbBaronTimer.Location = new System.Drawing.Point(287, 394);
-            this.tbBaronTimer.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tbBaronTimer.Margin = new System.Windows.Forms.Padding(2);
             this.tbBaronTimer.Name = "tbBaronTimer";
             this.tbBaronTimer.ReadOnly = true;
             this.tbBaronTimer.Size = new System.Drawing.Size(51, 20);
@@ -643,7 +643,7 @@
             // buttonTimerHelp
             // 
             this.buttonTimerHelp.Location = new System.Drawing.Point(299, 303);
-            this.buttonTimerHelp.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonTimerHelp.Margin = new System.Windows.Forms.Padding(2);
             this.buttonTimerHelp.Name = "buttonTimerHelp";
             this.buttonTimerHelp.Size = new System.Drawing.Size(22, 19);
             this.buttonTimerHelp.TabIndex = 49;
@@ -656,7 +656,7 @@
             this.pbLogo.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.pbLogo.Image = ((System.Drawing.Image)(resources.GetObject("pbLogo.Image")));
             this.pbLogo.Location = new System.Drawing.Point(11, 9);
-            this.pbLogo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pbLogo.Margin = new System.Windows.Forms.Padding(2);
             this.pbLogo.Name = "pbLogo";
             this.pbLogo.Size = new System.Drawing.Size(76, 41);
             this.pbLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -669,7 +669,7 @@
             this.cbEnableTimer.BackColor = System.Drawing.Color.Transparent;
             this.cbEnableTimer.ForeColor = System.Drawing.Color.White;
             this.cbEnableTimer.Location = new System.Drawing.Point(242, 417);
-            this.cbEnableTimer.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cbEnableTimer.Margin = new System.Windows.Forms.Padding(2);
             this.cbEnableTimer.Name = "cbEnableTimer";
             this.cbEnableTimer.Size = new System.Drawing.Size(93, 17);
             this.cbEnableTimer.TabIndex = 52;
@@ -731,7 +731,7 @@
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "MainForm";
             this.Text = "League Of Legends: Database";
             ((System.ComponentModel.ISupportInitialize)(this.pbChampImage)).EndInit();
